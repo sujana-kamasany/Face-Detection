@@ -20,7 +20,7 @@ A face detection app using opencv2 library in python
 - Run the code and face, eyes are detected in rectangle and square boxes respectively  
 
 - To exit the window press 'esc' key
-- 
+
 ## Author
 
 - [@sujana kamasany](https://github.com/sujana-kamasany)
