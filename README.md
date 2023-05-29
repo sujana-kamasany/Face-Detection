@@ -1,6 +1,6 @@
 # Face Detection
 
-A face detection app using opencv2 library in python
+A face detection project using opencv2 library in python
 
 
 ## Roadmap 
